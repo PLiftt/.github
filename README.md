@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/PLiftt/Capstone/main/images/Logo.png" alt="PLiftt Logo" width="300"/>
 </div>
 
-# 🏋️ PLiftt Organization
+# 🏋️ PLift Organization
 
 **PLiftt** es una organización dedicada al desarrollo de soluciones tecnológicas innovadoras para el mundo del fitness y powerlifting. Nuestra misión es crear herramientas inteligentes que ayuden a coaches y atletas a optimizar su rendimiento a través de la tecnología.
 
@@ -58,10 +58,6 @@ Desarrollar una app móvil que genere y ajuste ciclos de entrenamiento automáti
 - Recursos gráficos (logos, imágenes)
 - Documentación técnica del proyecto
 
-### ⚙️ [.github](https://github.com/PLiftt/.github)
-**Configuración de la organización**
-- **Descripción:** Repositorio especial que contiene la configuración de la organización PLiftt, templates de issues, pull requests y documentación general de la organización.
-
 ## 🛠️ Stack Tecnológico
 
 ### Frontend
@@ -88,17 +84,8 @@ Desarrollar una app móvil que genere y ajuste ciclos de entrenamiento automáti
 - ✅ Métricas avanzadas de rendimiento
 - ✅ Gestión eficiente de múltiples atletas
 
-## 🤝 Contribuciones
-
-Cada repositorio tiene sus propias guías de contribución. Por favor, revisa el README específico de cada proyecto para obtener instrucciones detalladas sobre cómo contribuir.
-
-## 📞 Contacto
-
-Para más información sobre la organización PLiftt y el proyecto PLift, no dudes en contactarnos a través de los issues en cualquiera de nuestros repositorios.
-
----
 
 <div align="center">
-  <p><strong>Desarrollado con ❤️ por el equipo PLiftt</strong></p>
+  <p><strong>Desarrollado con ❤️ por el equipo PLift</strong></p>
   <p><em>Transformando el fitness a través de la tecnología</em></p>
 </div>
