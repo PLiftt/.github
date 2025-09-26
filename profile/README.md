@@ -2,15 +2,15 @@
   <img src="https://raw.githubusercontent.com/PLiftt/Capstone/main/images/Logo.png" alt="PLiftt Logo" width="300"/>
 </div>
 
-# 🏋️ PLift Organization
+#  PLift Organization
 
 **PLiftt** es una organización dedicada al desarrollo de soluciones tecnológicas innovadoras para el mundo del fitness y powerlifting. Nuestra misión es crear herramientas inteligentes que ayuden a coaches y atletas a optimizar su rendimiento a través de la tecnología.
 
-## 🎯 Visión
+##  Visión
 
 Ser la plataforma líder en el desarrollo de aplicaciones móviles inteligentes para el entrenamiento de fuerza, utilizando inteligencia artificial para personalizar y optimizar los programas de entrenamiento.
 
-## 🚀 Sobre PLift
+##  Sobre PLift
 
 **PLift** es nuestra aplicación principal: una plataforma móvil inteligente que utiliza Inteligencia Artificial para generar planes de powerlifting personalizados y ajustarlos automáticamente según el rendimiento, fatiga y preparación para competencias. La aplicación optimiza la gestión de múltiples atletas y facilita el seguimiento tanto para coaches como para atletas.
 
@@ -22,9 +22,9 @@ Ser la plataforma líder en el desarrollo de aplicaciones móviles inteligentes 
 ### Objetivo:
 Desarrollar una app móvil que genere y ajuste ciclos de entrenamiento automáticamente, ofreciendo panel de control para coaches y métricas de progreso para atletas.
 
-## 📚 Repositorios
+##  Repositorios
 
-### 🎨 [Plift-Front](https://github.com/PLiftt/Plift-Front)
+###  [Plift-Front](https://github.com/PLiftt/Plift-Front)
 **Frontend de la aplicación móvil**
 - **Tecnología:** React Native + Expo Router
 - **Lenguaje:** TypeScript
@@ -38,7 +38,7 @@ Desarrollar una app móvil que genere y ajuste ciclos de entrenamiento automáti
 - Sistema de autenticación completo
 - Interfaz moderna con modo oscuro/claro
 
-### 🔧 [Plift-Back](https://github.com/PLiftt/Plift-Back)
+###  [Plift-Back](https://github.com/PLiftt/Plift-Back)
 **Backend de la aplicación**
 - **Tecnología:** Django + PostgreSQL
 - **Lenguaje:** Python
@@ -49,7 +49,7 @@ Desarrollar una app móvil que genere y ajuste ciclos de entrenamiento automáti
 - Django 4.1.7 como framework web
 - Python 3.10.0 como lenguaje base
 
-### 📖 [Capstone](https://github.com/PLiftt/Capstone)
+###  [Capstone](https://github.com/PLiftt/Capstone)
 **Documentación y evidencias del proyecto**
 - **Descripción:** Repositorio dedicado a almacenar todos los documentos de evidencias, documentación técnica, presentaciones y recursos relacionados con el proyecto Capstone de PLift.
 
@@ -58,7 +58,7 @@ Desarrollar una app móvil que genere y ajuste ciclos de entrenamiento automáti
 - Recursos gráficos (logos, imágenes)
 - Documentación técnica del proyecto
 
-## 🛠️ Stack Tecnológico
+##  Stack Tecnológico
 
 ### Frontend
 - **React Native** - Framework principal para desarrollo móvil
@@ -76,13 +76,13 @@ Desarrollar una app móvil que genere y ajuste ciclos de entrenamiento automáti
 - **FastAPI** - API para servicios de IA
 - **Firebase** - Autenticación y Firestore
 
-## 🏆 Resultados Esperados
+##  Resultados Esperados
 
-- ✅ Ciclos de entrenamiento personalizados en segundos
-- ✅ Ajuste automático de cargas y volumen
-- ✅ Dashboard de progreso y panel de control para coaches
-- ✅ Métricas avanzadas de rendimiento
-- ✅ Gestión eficiente de múltiples atletas
+-  Ciclos de entrenamiento personalizados en segundos
+-  Ajuste automático de cargas y volumen
+-  Dashboard de progreso y panel de control para coaches
+-  Métricas avanzadas de rendimiento
+-  Gestión eficiente de múltiples atletas
 
 
 <div align="center">
